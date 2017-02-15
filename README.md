@@ -19,3 +19,6 @@
 15. Save to desktop
 16. View files from desktop
 17. Then move/save files to personal device
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
