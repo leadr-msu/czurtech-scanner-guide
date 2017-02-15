@@ -1,5 +1,7 @@
 #Czurtech Scanner Guide
 
+Created by Sam Jaksa
+
 **While scanning the pages, wait four seconds. The last page you need to wait six seconds**
 
 1. Open Czurscanner program on desktop
