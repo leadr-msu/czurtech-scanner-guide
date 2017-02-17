@@ -3,6 +3,7 @@
 Created by Sam Jaksa
 
 **While scanning the pages, wait four seconds. The last page you need to wait six seconds**
+*If you lose your place while scanning, you can exit the window with the camera, view the images taken, and then continue scanning.*
 
 1. Open Czurscanner program on desktop
 2. Click 'Scan' icon in the top left-hand corner
