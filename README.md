@@ -1,4 +1,4 @@
-#Czurtech Scanner Guide
+# Czurtech Scanner Guide
 
 Created by Sam Jaksa
 
@@ -25,4 +25,4 @@ Created by Sam Jaksa
 17. Then move/save files to personal device
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
