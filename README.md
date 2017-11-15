@@ -2,7 +2,7 @@
 
 Created by Autumn Painter
 
-1. Turn on the computer and scanner.
+1. Turn on the computer and scanner. To turn the scanner on, press the switch on the back left of the machine base. 
 2. On the desktop, click the Czurtech Scanner Program on desktop.
 <img src="img/image1.jpg" width="80%"> 
 3. Allow it to make changes.
