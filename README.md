@@ -17,7 +17,7 @@ Created by Autumn Painter
 7. Adjust the location of the book within the viewer and make your color/processing selections in the right column. 
 <img src="img/image7.jpg" width="80%"> 
 8. Press the foot pedal to scan.<br>
-9. Once you have finished scanning close out of the window by clicking the 'X' in the top. This will bring you back to the original window. You should see each page that is scanned in the right sidebar. Select all the pages in the sidebar, then press 'Export' on the top menu. You can choose between PDF, TIFF, OCR, and Searchable PDF. 
+9. Once you have finished scanning, close out of the window by clicking the 'X' in the top right-hand corner. This will bring you back to the original window. You should see each page that is scanned in the right sidebar. Select all the pages in the sidebar, then press 'Export' on the top menu. You can choose between PDF, TIFF, OCR, and Searchable PDF. 
 <img src="img/image8.jpg" width="80%"> 
 10. Save to your flashdrive. 
 <img src="img/image9.jpg" width="80%">
