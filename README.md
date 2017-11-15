@@ -6,7 +6,7 @@ Created by Autumn Painter
 2. On the desktop, click the Czurtech Scanner Program on desktop
 <img src="img/image1.jpg" width="80%"> 
 3. Allow it to make changes
-<img src="img/image2.jpg" width="80%"> 
+<img src="img/image2.jpg" width="50%"> 
 4. Choose scanner
 <img src="img/image3.jpg" width="80%"> 
 5. Go to settings in the top right corner. This is where you can change your DPI, frequency, Resolution, etc. 
