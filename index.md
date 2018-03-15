@@ -42,4 +42,4 @@ Created by Autumn Painter
 
 
 -----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
