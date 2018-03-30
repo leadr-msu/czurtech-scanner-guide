@@ -40,6 +40,5 @@ Created by Autumn Painter
 
 <img src="img/image9.jpg" width="80%">
 
-
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/)
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
